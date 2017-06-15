@@ -1,0 +1,7 @@
+.metadata/
+.recommenders
+desktop.ini
+test/.classpath
+test/.project
+test/.settings/org.eclipse.jdt.core.prefs
+*.class
